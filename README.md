@@ -3,8 +3,7 @@
 Hi, I'm developer 
 <!--interested in -->
 <br>
--📕 Languages
-https://github-readme-stats.vercel.app/api?username={Hyewon-Git}&show_icons=true&theme=tokyonight
+-📕 
 -📙 
 -📒
 -📗
